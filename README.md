@@ -8,11 +8,11 @@ CS student at SNHU, working toward a career in IT and cybersecurity. Most of wha
 
 - **Homelab Migration:** Moving from a Surface Book 2 running Ubuntu Server to a Dell OptiPlex 3060 SFF on Proxmox.
 
-- **Certs:** Studying for **CompTIA A+** through Calbright College and working toward **Network+**. Already hold the **ISC2 CC**.
+- **Certs:** Just passed the **Microsoft SC-900** exam, looking to get either the **CompTIA Network+** or **Cisco CCNA** next (TBD).
 
 - **CS Degree:** Working through my B.S. in Computer Science at SNHU, expected graduation Sep 2027.
 
-- **Exploring:** Local LLMs and Obsidian. Early days, but interested in building a more integrated personal knowledge system.
+- **Exploring:** Local LLMs and Obsidian. Still testing, but interested in building a more integrated personal knowledge system.
 
 ---
 
@@ -31,7 +31,7 @@ Python, Shell, Java, SQL, Git
 
 ### Writing & Content
 
-I publish weekly on [Medium](https://medium.com/@aidanleddy): technical deep-dives on homelab projects, networking experiments, and lessons learned. Paired posts go up on [LinkedIn](https://www.linkedin.com/in/aidanleddy/).
+I publish occasionally on [Medium](https://medium.com/@aidanleddy): technical deep-dives on homelab projects, networking experiments, and lessons learned. Paired posts go up on [LinkedIn](https://www.linkedin.com/in/aidanleddy/).
 
 Recent topics: bypassing CGNAT with Tailscale, repurposing old hardware into a server, and self-hosting my own cloud sync solution via Syncthing.
 
