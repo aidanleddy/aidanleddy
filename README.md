@@ -1,48 +1,37 @@
-## Hey, I'm Aidan 👋
+# Aidan Leddy
 
-CS student at SNHU, working toward a career in IT and cybersecurity. Most of what I know came from breaking things in my homelab and figuring out why.
+CS student and Cloud/Infrastructure Intern focusing on systems administration, enterprise networking, and homelab architecture. Most of what I build comes from breaking things and automating the fix.
 
----
-
-### What I'm Working On
-
-- **Homelab Migration:** Moving from a Surface Book 2 running Ubuntu Server to a Dell OptiPlex 3060 SFF on Proxmox.
-
-- **Certs:** Just passed the **Microsoft SC-900** exam, looking to get either the **CompTIA Network+** or **Cisco CCNA** next (TBD).
-
-- **CS Degree:** Working through my B.S. in Computer Science at SNHU, expected graduation Sep 2027.
-
-- **Exploring:** Local LLMs and Obsidian. Still testing, but interested in building a more integrated personal knowledge system.
+📍 Southern California • [LinkedIn](https://www.linkedin.com/in/aidanleddy/) • [Medium](https://medium.com/@aidanleddy)
 
 ---
 
-### Tech Stack & Tools
+### Currently Focused On
 
-**Infrastructure**
-Linux (Ubuntu/Debian), Proxmox, Docker, macOS, Windows
-
-**Networking & Security**
-Tailscale, Caddy (reverse proxy + SSL/TLS), Gluetun VPN, LAN/WAN, DHCP/DNS
-
-**Scripting & Dev**
-Python, Shell, Java, SQL, Git
+- **Enterprise & Cloud Systems:** Working with Azure, Intune, and identity management while preparing for the **AZ-104** (Azure Administrator).
+- **Self-Hosted AI Workflows:** Running local open-weight models via Ollama and Open WebUI; open-sourced my deployment in [`ai-stack`](https://github.com/aidanleddy/homelab/tree/main/ai-stack).
+- **Homelab Virtualization:** Migrating core self-hosted services from bare-metal Ubuntu Server to a Proxmox VE hypervisor cluster.
+- **Academics:** Completing a B.S. in Computer Science at SNHU.
 
 ---
 
-### Writing & Content
+### Tech & Tools
 
-I publish occasionally on [Medium](https://medium.com/@aidanleddy): technical deep-dives on homelab projects, networking experiments, and lessons learned. Paired posts go up on [LinkedIn](https://www.linkedin.com/in/aidanleddy/).
-
-Recent topics: bypassing CGNAT with Tailscale, repurposing old hardware into a server, and self-hosting my own cloud sync solution via Syncthing.
-
----
-
-### Outside the Terminal
-
-- **Videography & 3D:** Shooting and editing vlogs in DaVinci Resolve, experimenting with Blender.
-- **Outdoors:** Scuba diving (PADI Rescue Diver), snowboarding, surfing.
-- **Health:** Weightlifting and running.
+- **Virtualization & Systems:** Proxmox VE, Ubuntu Server, Debian, Docker & Compose, macOS, Windows
+- **Cloud & Enterprise:** Microsoft Azure, Microsoft Intune, Entra ID
+- **Networking & Security:** Tailscale, Caddy (reverse proxy/TLS), VLANs, DNS/DHCP, ISC2 CC, Microsoft SC-900
+- **Development & Scripting:** Python, Bash/Zsh, PowerShell, C++, Java, Git
 
 ---
 
-📍 Southern California  |  [LinkedIn](https://www.linkedin.com/in/aidanleddy/)  |  [Medium](https://medium.com/@aidanleddy)
+### Featured Repositories & Writing
+
+- **[`ai-stack`](https://github.com/aidanleddy/homelab/tree/main/ai-stack):** Turnkey containerized setup for local LLM inference, WebUI, and API routing.
+- **[`homelab`](https://github.com/aidanleddy/homelab):** Infrastructure configurations, Docker compose templates, and reverse-proxy setups.
+- **Technical Writing:** Articles on bypassing CGNAT via Tailscale, hardware migrations, and private cloud sync published on [Medium](https://medium.com/@aidanleddy).
+
+---
+
+### Beyond the Terminal
+
+Ocean shore scuba diving (PADI Rescue Diver), weightlifting, distance running, and snowboarding.
